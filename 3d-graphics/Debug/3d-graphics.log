@@ -1,3 +1,2 @@
-﻿  Engine3D.cpp
-C:\Users\Ryan\source\repos\3d-graphics\3d-graphics\Engine3D.cpp(48,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+﻿  main.cpp
   3d-graphics.vcxproj -> C:\Users\Ryan\source\repos\3d-graphics\Debug\3d-graphics.exe
